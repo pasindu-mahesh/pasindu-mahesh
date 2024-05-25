@@ -10,7 +10,7 @@
 - ⚡ Fun fact **Call me as YUKYE**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://fb.com/pasindu mahesh kannanangara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasindu mahesh kannanangara" height="30" width="40" /></a>
 <a href="https://instagram.com/pasindu_mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasindu_mahesh" height="30" width="40" /></a>
 </p>
