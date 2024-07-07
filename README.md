@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **mern-stack**
 
 - 📫 How to reach me **99pasindumahesh@gmail.com**
 
