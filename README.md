@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **mern-stack**
+- 🌱 **UI/UX**
 
 - 📫 How to reach me **99pasindumahesh@gmail.com**
 
