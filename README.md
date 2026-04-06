@@ -1,55 +1,85 @@
-<h1 align="center">Hi 👋, I'm Pasindu Mahesh</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pasindu-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="pasindu-mahesh" /> </p>
-
----
-
-- 🌱 **UI/UX**
-
-- 📫 How to reach me **99pasindumahesh@gmail.com**
-
-- ⚡ Fun fact **Call me as YUKYE**
+# Hi 👋, I'm Pasindu Mahesh
+### A passionate frontend developer from Sri Lanka 🇱🇰
+<img src="https://komarev.com/ghpvc/?username=pasindu-mahesh&label=Profile%20visitors&color=0e75b6&style=flat" alt="pasindu-mahesh" />
 
 ---
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pasindu-mahesh&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu-mahesh&theme=dark&hide_border=false" /> 
-</td>
+<div align="left">
 
-<td width="50%" align="center">
+## 🚀 About Me
 
-  <img  align="center"  src="https://github-readme-stats.pasindu-mahesh.vercel.app/api/top-langs/?username=pasindu-mahesh&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+<table border="0">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <ul>
+        <li>🌱 I’m currently learning <b>Flutter</b></li>
+        <li>👯 I’m looking to collaborate with <b>Frontend Visualization Developers</b></li>
+        <li>🤔 I’m looking for help with <b>Open Source Contributions</b></li>
+        <li>📫 How to reach me: <b>pasinduzone@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="100%" />
+    </td>
+  </tr>
 </table>
-<!--- stats (end) -->
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/pasindu mahesh kannanangara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasindu mahesh kannanangara" height="100" width="50" /></a>
-<a href="https://instagram.com/pasindu_mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasindu_mahesh" height="100" width="50" /></a>
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </a>  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></p>
+## 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://facebook.com/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:pasinduzone@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 📂 My Projects
+
+Check out some of my projects:
+
+<p align="center">
+  <a href="https://www.veloryxai.com/"><img src="https://img.shields.io/badge/Project_01-Black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.creativemindpreschool.com/"><img src="https://img.shields.io/badge/Project_02-Black?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pasindu-mahesh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu-mahesh&theme=tokyonight" />
+</p>
 
 ---
 
